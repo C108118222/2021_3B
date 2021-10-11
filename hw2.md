@@ -4,7 +4,7 @@
 ![fig](pert.jpg "PERT/CRM")
 
 ### (3)甘特圖
-![fig](pert.jpg "PERT/CRM")
+![fig](甘特圖.jpg "甘特圖")
 
 ### 題目
 |任務|說明|天數|前置任務|
